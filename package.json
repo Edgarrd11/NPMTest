@@ -16,5 +16,13 @@
   "bin": {
     "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edgarrd11/NPMTest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Edgarrd11/NPMTest/issues"
+  },
+  "homepage": "https://github.com/Edgarrd11/NPMTest#readme"
 }
